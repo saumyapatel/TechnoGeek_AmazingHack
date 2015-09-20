@@ -1,5 +1,23 @@
 # TechnoGeek_AmazingHack
 
+Problem Statement #1
+====================
+
+
+Prerequisites
+-------------
+
+1. Java 1.7 or above
+2. MySQL
+
+Instructions for executing solution
+-----------------------------------
+
+Install Java and MySQL on your system.
+Define shared location at 'com.amazon.pooling.LabelCommonProps.properties'
+Run the program using java.
+
+
 Team Members
 ------------
 
@@ -7,4 +25,4 @@ Team Members
 2. Sriram Murali
 3. Vinoth Balakrishna
 
-Complete solution will be posted here for Hackathon.
+
